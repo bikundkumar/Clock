@@ -7,13 +7,12 @@ This project demonstrates a simple web server using the Crow C++ framework. The 
 - C++ compiler with at least C++11 support (e.g., `g++`)
 - Asio development headers (1.10.9 or later)
 - Crow framework
-- Mustache template library
 
 ## Installation
 
 1. Clone the repository:
     ```bash
-    git clone <https://github.com/bikundkumar/Clock.git>
+    git clone https://github.com/bikundkumar/Clock.git
     ```
 2. Ensure you have the Crow framework header file (`crow_all.h`) and Asio development headers in the project directory.
 
