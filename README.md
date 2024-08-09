@@ -1,6 +1,6 @@
-# Crow Web Server Project
+# Animated Clock with Dark Mode Toggle
 
-This project demonstrates a simple web server using the Crow C++ framework. The server serves an HTML page along with associated CSS and JavaScript files. **The page is designed to display an animated clock with a dark mode toggle option.**
+This project demonstrates a simple web server using the Crow C++ framework. The server serves an HTML page along with associated CSS and JavaScript files. **The clock updates in real-time and allows users to switch between light and dark modes..**
 
 ## Prerequisites
 
