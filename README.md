@@ -23,7 +23,7 @@ This project demonstrates a simple web server using the Crow C++ framework. The 
     g++ -I. clock.cpp -lpthread && ./a.out
     ```
 
-2. Run the server:
+2. Run the server
     ```bash
     ./a.out
     ```
